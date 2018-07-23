@@ -19,10 +19,13 @@ function destructivelyRemoveFirstKitten(name) {
    return kittens
 }
 
-// passed
-
 function appendKitten(name) {
    return [...kittens, name]
   
 }
+
+// passed
+
+
+
 
