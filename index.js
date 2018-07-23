@@ -31,5 +31,15 @@ function prependKitten(name) {
   
 }
 
+function prependKitten(name) {
+   return [...kittens, name]
+  
+}
+
+function prependKitten(name) {
+   return [...kittens, name]
+  
+}
+
 
 
