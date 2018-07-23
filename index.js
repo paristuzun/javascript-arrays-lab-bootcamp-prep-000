@@ -26,6 +26,10 @@ function appendKitten(name) {
 
 // passed
 
+function appendKitten(name) {
+   return [...kittens, name]
+  
+}
 
 
 
