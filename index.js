@@ -1,4 +1,4 @@
 // Add your functions and code here
-function destructivelyAppendKitten(name) {
-  return name.slice(-1)
+function destructivelyAppendKitten(name, kitten) {
+return [...name, kitten]
 }
