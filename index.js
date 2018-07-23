@@ -1,4 +1,4 @@
 // Add your functions and code here
 function destructivelyAppendKitten(name) {
-  return name.push()
+  return name.push("wonder woman");
 }
